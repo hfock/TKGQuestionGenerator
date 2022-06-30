@@ -1,4 +1,4 @@
-import TKGQuestionMaster.HelperUtils as helper
+import TKGQuestionGenerator.HelperUtils as helper
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
