@@ -1,0 +1,8 @@
+,created_correct_answer,created_valid_answer,created_size,question_type,died in_correct_answer,died in_valid_answer,died in_size,graduated from_correct_answer,graduated from_valid_answer,graduated from_size,has won prize_correct_answer,has won prize_valid_answer,has won prize_size,is affiliated to_correct_answer,is affiliated to_valid_answer,is affiliated to_size,is married to_correct_answer,is married to_valid_answer,is married to_size,owns_correct_answer,owns_valid_answer,owns_size,plays for_correct_answer,plays for_valid_answer,plays for_size,was born in_correct_answer,was born in_valid_answer,was born in_size,works at_correct_answer,works at_valid_answer,works at_size
+0,359,1787,1921,yes_no_v2,35,1617,1643,93,611,630,1690,3073,3307,5,620,631,172,1160,1377,13,327,364,480,2948,3312,684,2641,3340,5,209,209
+0,192,1904,1921,when_v2,37,1643,1643,7,630,630,74,3305,3307,73,627,631,193,1364,1377,78,364,364,510,3261,3312,87,3340,3340,28,209,209
+0,12,419,429,until_when_v2,,,,0,93,93,6,102,102,9,593,627,23,1352,1363,5,339,361,177,3166,3308,,,,3,209,209
+0,10,429,429,left_open_v2,,,,3,93,93,3,102,102,19,609,627,14,1354,1363,0,361,361,74,3295,3308,,,,1,208,209
+0,17,399,429,right_open_v2,,,,2,93,93,5,100,102,0,311,627,14,1058,1363,6,285,361,202,2220,3308,,,,0,156,209
+0,0,5,429,when_to_when_v2,,,,0,0,93,0,1,102,0,373,627,0,15,1363,0,89,361,8,551,3308,,,,0,199,209
+0,5,158,429,duration_v2,,,,3,91,93,3,77,102,3,409,627,22,1046,1363,1,213,361,184,2883,3308,,,,2,176,209

@@ -1,0 +1,8 @@
+,question_type,size,valid_answer,correct_answer,time_processed,correct_percentage
+0,yes_no_v4,16734,15021,6757,22 min 53 sec,0.4037886936775427
+1,when_v4,16734,16731,1446,23 min 50 sec,0.08641089996414486
+2,until_when_v4,6492,6489,253,8 min 36 sec,0.03897104128157733
+3,left_open_v4,6492,6492,272,8 min 29 sec,0.041897720271102896
+4,right_open_v4,6492,6492,439,8 min 31 sec,0.06762168823166975
+5,when_to_when_v4,6492,0,0,8 min 40 sec,0.0
+6,duration_v4,6492,6442,141,10 min 8 sec,0.021719038817005546

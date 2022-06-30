@@ -1,0 +1,9 @@
+,question_type,size,valid_answer,correct_answer,time_processed,correct_percentage,correctly_answered_entities,correctly_answered_entities_percentage
+0,yes_no_robust_v1_complete_interval,200571,182642,62805,311 min 24 sec,31.31,101,0.6
+0,yes_no_robust_v1_single_value,83670,76900,48042,166 min 22 sec,57.42,125,0.75
+0,yes_no_robust_v2_complete_interval,200571,181421,59526,315 min 33 sec,29.68,69,0.41000000000000003
+0,yes_no_robust_v2_single_value,83670,75034,49474,127 min 10 sec,59.13,96,0.5700000000000001
+0,yes_no_robust_v3_complete_interval,200571,188307,63962,284 min 12 sec,31.89,62,0.37
+0,yes_no_robust_v3_single_value,83670,76204,36624,168 min 58 sec,43.769999999999996,95,0.5700000000000001
+0,yes_no_robust_v4_complete_interval,200571,186232,59304,413 min 3 sec,29.57,82,0.49
+0,yes_no_robust_v4_single_value,83670,75168,39903,115 min 54 sec,47.69,121,0.72
